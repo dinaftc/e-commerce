@@ -1,6 +1,6 @@
 
 
-## `An E-commerce website made using React.js which is a js library and styled-components which is a CSS-in-JS library`
+## An E-commerce website made using React.js which is a js library and styled-components which is a CSS-in-JS library
 
 
 
