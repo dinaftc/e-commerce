@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+#E-commerce 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+'' 
+this is an e-commerce website made using React.js which is a js library and styled-components which is a CSS-in-JS library
+
+''
+
+
 
 ## Available Scripts
 
